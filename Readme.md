@@ -57,7 +57,7 @@ This app uses the [WeatherAPI.com](https://www.weatherapi.com/) free API to fetc
 
 ## Screenshots
 
-![Weather App Interface](./screenshot.png)
+![Weather App Interface](./image.png)
 
 
 ## Credits
