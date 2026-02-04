@@ -62,7 +62,7 @@ This app uses the [WeatherAPI.com](https://www.weatherapi.com/) free API to fetc
 
 ## Credits
 
-**Developer:** Yashvatdhan  
+**Developer:** Yashvardhan  
 **Created:** February 2026
 
 ## License
